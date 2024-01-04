@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @OnlyFerris
-- 👀 I’m interested in Rust
+- 👋🏻 Hi, I’m @OnlyFerris
+- 💜 I love Rust 💜
