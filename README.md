@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @OnlyFerris
+- 👀 I’m interested in Rust
