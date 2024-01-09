@@ -1,4 +1,4 @@
-<img src=https://github.com/OnlyFerris/OnlyFerris/assets/153568011/3c4cbbf9-1c10-45a0-bc21-c4f74de1a29b alt="OnlyFerris – In Rust We Trust" title="henlo! my name OnlyFerris" />
+<img src=https://github.com/OnlyFerris/OnlyFerris/assets/153568011/3c4cbbf9-1c10-45a0-bc21-c4f74de1a29b alt="henlo! my name OnlyFerris" title="henlo! my name OnlyFerris" />
 
 - 👋🏻 Hi, I’m @OnlyFerris
 - 💜 I love Rust 💜
